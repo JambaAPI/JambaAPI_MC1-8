@@ -11,6 +11,8 @@ Developer || CactusCombo
 
 Helper || DangerGuy27
 
+Current Version: JambaAPI_MC1-8 SNAPSHOT 1.0
+
 =========================================================
 Jamba OPEN SOURCE
 Requested Private.
