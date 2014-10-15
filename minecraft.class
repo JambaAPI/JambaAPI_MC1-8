@@ -1,0 +1,24 @@
+public class Minecraft {
+  public boolean isOnline;
+  public boolean isOffline;
+  public boolean isClosed;
+  
+  public String serverName;
+  public String serverMOTD;
+  public String serverName;
+  
+  public int onlinePlayers;
+  
+  if (isOnline == true) {
+    isOffline = false;
+    isClosed = false;
+  }
+  if (isOffline = true){
+    isOnline = false;
+    isClosed = true;
+  }
+  if (isClosed = true){
+    isOnline = false;
+    isOffline = true;
+  }
+}
