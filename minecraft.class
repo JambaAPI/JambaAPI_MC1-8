@@ -21,4 +21,20 @@ public class Minecraft {
     isOnline = false;
     isOffline = true;
   }
+  
+  public void onEnable(){
+    //SERVER CLASS CODE
+  }
+  public void onDisable(){
+    //SERVER CLASS CODE
+  }
+  
+  public boolean isDay;
+  public boolean isNight;
+  public boolean isRain;
+  public boolean isStorm;
+  public boolean allowMobSpawning;
+  public boolean allowCommandBlockOutput;
+  public boolean allowMobGreifing;
+  
 }
