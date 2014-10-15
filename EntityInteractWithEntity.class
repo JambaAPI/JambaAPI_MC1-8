@@ -1,0 +1,35 @@
+package JambaAPI.Event;
+
+public class EntityInteractWithEntity {
+	
+	public String Entity1Name;
+	public String Entity1Meta;
+
+	public String Entity2Name;
+	public String Entity2Meta;
+
+	public int getChunk;
+	public int Chunk;
+	
+	public int getEntity1X;
+	public int getEntity1Y;
+	public int getEntity1Z;
+	
+	public int Entity1X;
+	public int Entity1Y;
+	public int Entity1Z;
+	
+	public int getEntity2X;
+	public int getEntity2Y;
+	public int getEntity2Z;
+	
+	public int Entity2X;
+	public int Entity2Y;
+	public int Entity2Z;
+	
+	public boolean isEntity;{
+		if (isEntity == true) {
+			//EVENT
+		}
+	}
+}
