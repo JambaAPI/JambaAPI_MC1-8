@@ -13,7 +13,7 @@ Admin & JR Developer || xGuus
 
 Helper || DangerGuy27
 
-Current Version: JambaAPI_MC1-8 SNAPSHOT 1.0
+Current Version: JambaAPI_MC1-8 SNAPSHOT 1.5
 
 =========================================================
 Jamba OPEN SOURCE
