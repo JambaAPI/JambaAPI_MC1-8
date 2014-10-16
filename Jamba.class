@@ -1,0 +1,15 @@
+package JambaAPI;
+
+public final class Jamba {
+	
+	public String name;
+	public String IP;
+	public int maxPlayers;
+	
+	public boolean isDay;
+	public boolean isNight;
+	
+	public boolean isOnline;
+	public boolean isOffline;
+	
+}
